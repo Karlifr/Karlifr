@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ytimg.com/vi/qKz6GJks3Ek/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCdx9l3zsvhEz27CPgCJxwwPHoOPQ
 <h1 align="center">Hi 👋, I'm Furkan Karlı</h1>
 <h3 align="center">Web Developer from Turkey</h3>
 
